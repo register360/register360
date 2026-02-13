@@ -16,9 +16,9 @@ I love working across different languages and technologies, adapting to challeng
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Website](http://weburnstech.ct.ws/)
+- [LinkedIn](https://www.linkedin.com/in/tirukoti-vinay/)  
+- [Twitter](https://x.com/TirukotiVinay)  
+- [Website](https://www.webburnstech.dev/)
 
 ---
 
